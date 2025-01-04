@@ -22,7 +22,7 @@ The Feedback Management System is a web application designed to facilitate the c
 ## Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/feedback-management-system.git
+https://github.com/Harsh-6361/Feedback-Management-System.git
 
 # Navigate to the project directory
 cd feedback-management-system
